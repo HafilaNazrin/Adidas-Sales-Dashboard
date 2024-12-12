@@ -8,14 +8,14 @@ Data analysis is a game-changer for optimizing business operations, empowering i
 ## Objective
 The client wanted us to design an interactive dashboard containing a slicer to filter by Year and Store Type. They wanted to have an Annual sales Development. Also, the charts display the Total units sold by Region and Profit Retailer.
 
-![Wireframe](https://github.com/user-attachments/assets/e82d8802-9b42-42c8-b16f-1710c765c837)
+![Adidas Wireframe](https://github.com/user-attachments/assets/669c88b0-b5f1-4f38-bfc2-1450815a5561)
 
 ## Collection of Data from source
 Link to the dataset : [Adidas Dataset](https://drive.google.com/drive/folders/1bh0nlX0EaXpWOpd34oC_7c46mxGpWdS_?source=post_page-----a1e04e618610--------------------------------)
 We have a sheet that contains Retailer, Retailer ID, Invoice Date, Location Key, Product, Price per Unit, Units Sold, Total Sales, Operating Profit, Operating Margin, Sales Method, Product URL, Region, State and City.
 
 ## Building Dashboard
-Since the dataset was cleaned there was no need for data cleaning and Tranformation.
+Since the dataset was cleaned there was no need for data cleaning and transformation.
 
 ### 1. Charts using Pivot Tables
 * Using a Pivot Table by placing Region and sum of units sold. By using this I created a bar chart.
